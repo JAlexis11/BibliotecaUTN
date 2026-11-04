@@ -1,0 +1,4 @@
+# Copie este archivo como db.properties y ponga su contrasena de PostgreSQL
+url=jdbc:postgresql://localhost:5432/Biblio
+usuario=postgres
+contrasena=

@@ -1,0 +1,7 @@
+tipo;codigo;titulo;ejemplares;especifico
+LIBRO;L001;Cien anos de soledad;3;Gabriel Garcia Marquez
+LIBRO;L002;Fundamentos de programacion en Java;5;Luis Joyanes Aguilar
+LIBRO;L003;Calculo de una variable;2;James Stewart
+LIBRO;L004;Ingenieria de software;1;Ian Sommerville
+REVISTA;R001;National Geographic;2;Octubre 2026
+REVISTA;R002;Investigacion y Ciencia;3;No. 580

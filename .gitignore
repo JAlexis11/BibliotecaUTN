@@ -1,0 +1,7 @@
+# Compilados
+out/
+*.class
+fuentes.txt
+
+# Configuracion local con la contrasena de PostgreSQL
+db.properties
